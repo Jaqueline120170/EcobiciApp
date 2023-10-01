@@ -25,6 +25,7 @@ namespace EcobiciApp.Controladores
                         Console.WriteLine("Aqui te mostramos las tarifas:");
                         Console.WriteLine("Un día 2 eur");
                         Console.WriteLine("Un mes 23 eur");
+                        Console.WriteLine("Un año 200 eur");
                         break;
 
                     case 2:
