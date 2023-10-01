@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcobiciApp", "EcobiciApp.csproj", "{DA51C364-B07F-444B-8CEE-88C40434E833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA51C364-B07F-444B-8CEE-88C40434E833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA51C364-B07F-444B-8CEE-88C40434E833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA51C364-B07F-444B-8CEE-88C40434E833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA51C364-B07F-444B-8CEE-88C40434E833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA4F1EF8-4846-4173-AEF1-AE3874A04A8A}
+	EndGlobalSection
+EndGlobal
