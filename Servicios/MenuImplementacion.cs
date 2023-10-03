@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace EcobiciApp.Servicios
 {
+    /// <summary>
+    /// Clase que implementa l interfaz del menú
+    /// 30092023 - jrt
+    /// </summary>
     internal class MenuImplementacion : MenuInterfaz
     {
         public void mensajeHola()
